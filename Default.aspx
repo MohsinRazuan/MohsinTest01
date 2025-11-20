@@ -9,8 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-       File Site is running..Test
-        <asp:Label runat="server" ID="lblWS"></asp:Label>
+        <h1>Test site 2</h1>
+       <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="true" />
     </div>
     </form>
 </body>
