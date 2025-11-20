@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "H:\\Server\\_Training\\Github\\Repo\\MohsinTest01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA49734E-5DD8-6A6E-E6C0-EA35478E7FAC}|H:\\Server\\_Training\\Github\\Repo\\MohsinTest01|h:\\server\\_training\\github\\repo\\mohsintest01\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA49734E-5DD8-6A6E-E6C0-EA35478E7FAC}|H:\\Server\\_Training\\Github\\Repo\\MohsinTest01|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA49734E-5DD8-6A6E-E6C0-EA35478E7FAC}|H:\\Server\\_Training\\Github\\Repo\\MohsinTest01|h:\\server\\_training\\github\\repo\\mohsintest01\\default3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CA49734E-5DD8-6A6E-E6C0-EA35478E7FAC}|H:\\Server\\_Training\\Github\\Repo\\MohsinTest01|solutionrelative:default3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA49734E-5DD8-6A6E-E6C0-EA35478E7FAC}|H:\\Server\\_Training\\Github\\Repo\\MohsinTest01|h:\\server\\_training\\github\\repo\\mohsintest01\\default2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CA49734E-5DD8-6A6E-E6C0-EA35478E7FAC}|H:\\Server\\_Training\\Github\\Repo\\MohsinTest01|solutionrelative:default2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA49734E-5DD8-6A6E-E6C0-EA35478E7FAC}|H:\\Server\\_Training\\Github\\Repo\\MohsinTest01|h:\\server\\_training\\github\\repo\\mohsintest01\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -13,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{CA49734E-5DD8-6A6E-E6C0-EA35478E7FAC}|H:\\Server\\_Training\\Github\\Repo\\MohsinTest01|h:\\server\\_training\\github\\repo\\mohsintest01\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{CA49734E-5DD8-6A6E-E6C0-EA35478E7FAC}|H:\\Server\\_Training\\Github\\Repo\\MohsinTest01|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA49734E-5DD8-6A6E-E6C0-EA35478E7FAC}|H:\\Server\\_Training\\Github\\Repo\\MohsinTest01|h:\\server\\_training\\github\\repo\\mohsintest01\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA49734E-5DD8-6A6E-E6C0-EA35478E7FAC}|H:\\Server\\_Training\\Github\\Repo\\MohsinTest01|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Default3.aspx",
+              "DocumentMoniker": "H:\\Server\\_Training\\Github\\Repo\\MohsinTest01\\Default3.aspx",
+              "RelativeDocumentMoniker": "Default3.aspx",
+              "ToolTip": "H:\\Server\\_Training\\Github\\Repo\\MohsinTest01\\Default3.aspx",
+              "RelativeToolTip": "Default3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-20T11:29:20.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default2.aspx",
+              "DocumentMoniker": "H:\\Server\\_Training\\Github\\Repo\\MohsinTest01\\Default2.aspx",
+              "RelativeDocumentMoniker": "Default2.aspx",
+              "ToolTip": "H:\\Server\\_Training\\Github\\Repo\\MohsinTest01\\Default2.aspx",
+              "RelativeToolTip": "Default2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-20T11:29:11.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Web.config",
               "DocumentMoniker": "H:\\Server\\_Training\\Github\\Repo\\MohsinTest01\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Default.aspx",
               "DocumentMoniker": "H:\\Server\\_Training\\Github\\Repo\\MohsinTest01\\Default.aspx",
               "RelativeDocumentMoniker": "Default.aspx",
@@ -52,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "H:\\Server\\_Training\\Github\\Repo\\MohsinTest01\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Default.aspx.cs",
